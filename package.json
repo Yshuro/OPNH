@@ -1,7 +1,7 @@
 {
   "name": "opnh",
   "version": "2.0.3",
-  "productName": "One Piece : New Horzion",
+  "productName": "One Piece New Horzion",
   "description": "Launcheur Minecraft du serveur One Piece : New Horizon",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
@@ -38,7 +38,7 @@
     "semver": "^7.3.8"
   },
   "devDependencies": {
-    "electron": "^23.2.1",
+    "electron": "^23.2.2",
     "electron-builder": "^24.1.2",
     "eslint": "^8.37.0"
   },
