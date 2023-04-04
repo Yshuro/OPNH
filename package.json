@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "opnh",
   "version": "2.0.3",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
+  "productName": "One Piece : New Horzion",
+  "description": "Launcheur Minecraft du serveur One Piece : New Horizon",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Yshuro/OPNH",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Yshuro/OPNH/issues"
   },
   "private": true,
   "main": "index.js",
@@ -39,11 +39,11 @@
   },
   "devDependencies": {
     "electron": "^23.2.1",
-    "electron-builder": "^23.6.0",
+    "electron-builder": "^24.1.2",
     "eslint": "^8.37.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Yshuro/OPNH.git"
   }
 }
